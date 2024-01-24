@@ -1,0 +1,15 @@
+[
+  {
+    "1": {
+      "label": "root",
+      "children": [
+        {
+          "2": {
+            "label": "ant",
+            "children": [{ "3": { "label": "bear", "children": [] } }]
+          }
+        }
+      ]
+    }
+  }
+]
